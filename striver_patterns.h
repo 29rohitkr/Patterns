@@ -168,7 +168,7 @@ void pattern9(int n)
 }
 
 void pattern9_2(int n)
-{ // coding Nonjas nStarDiamond
+{ // coding Ninjas nStarDiamond
 
     int gap = n - 1, stars = 1;
     for (int i = 0; i < n; i++)
